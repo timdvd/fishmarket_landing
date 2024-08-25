@@ -16,3 +16,5 @@ Technologies Used:
  - CSS3
  - JavaScript
  - Bootstrap (optional)
+
+You may watch the preview by clicking the following link: https://timdvd.github.io/fishmarket_landing/
